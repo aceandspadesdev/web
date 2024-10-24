@@ -1,0 +1,1 @@
+import{u as s,c as t,o as a,F as c,a as e}from"./entry.b1a7a51e.js";const _=e("div",{class:"animated-stripes"},null,-1),l=e("div",{class:"box-r"},[e("h1",{class:"tag-h"}," UNDER "),e("h6",{class:"tag-r",style:{color:"#f9bc23"}},"CONSTRUCTION")],-1),d={__name:"index",setup(n){return s({titleTemplate:""}),(o,r)=>(a(),t(c,null,[_,l],64))}};export{d as default};

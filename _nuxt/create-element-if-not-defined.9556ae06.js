@@ -1,0 +1,1 @@
+import{b as m}from"./core.95d71c40.js";function i(l,f,n,c){const o=m();return l.params.createElements&&Object.keys(c).forEach(t=>{if(!n[t]&&n.auto===!0){let e=l.$el.children(`.${c[t]}`)[0];e||(e=o.createElement("div"),e.className=c[t],l.$el.append(e)),n[t]=e,f[t]=e}}),n}export{i as c};
