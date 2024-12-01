@@ -5012,6 +5012,7 @@ span:hover {
 .portfolio .gallery .items .item-img img {
   height: 100%;
   width: 100%;
+  aspect-ratio: 3/4;
   -o-object-fit: cover;
   object-fit: cover;
   -webkit-transition: all .5s;
