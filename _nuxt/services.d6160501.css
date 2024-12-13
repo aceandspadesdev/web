@@ -1,1 +1,0 @@
-.scroll{animation:blink 3s linear infinite;display:block;opacity:.3;position:relative;text-align:center;transform:translateY(-50px)}@keyframes blink{0%{opacity:.6}50%{opacity:.1}to{opacity:.6}}

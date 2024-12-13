@@ -4297,6 +4297,11 @@ span:hover {
   font-size: 60px;
 }
 
+.icon-img {
+  width: 60px;
+  filter: invert(1);
+}
+
 .services.box .item-box .icon:after {
   display: none;
 }

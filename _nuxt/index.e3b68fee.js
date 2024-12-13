@@ -1,1 +1,0 @@
-import{u as t,c as a,a as s,F as l,o as n}from"./entry.c7e4c2b9.js";const i={__name:"index",setup(r){return t({titleTemplate:""}),(o,e)=>(n(),a(l,null,[e[0]||(e[0]=s("div",{class:"animated-stripes"},null,-1)),e[1]||(e[1]=s("div",{class:"box-r"},[s("h1",{class:"tag-h"}," UNDER "),s("h6",{class:"tag-r",style:{color:"#f9bc23"}},"CONSTRUCTION")],-1))],64))}};export{i as default};
