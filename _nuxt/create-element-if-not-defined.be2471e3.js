@@ -1,0 +1,1 @@
+import{c as m}from"./swiper-slide.775ed0d6.js";function i(c,f,n,l){const o=m();return c.params.createElements&&Object.keys(l).forEach(t=>{if(!n[t]&&n.auto===!0){let e=c.$el.children(`.${l[t]}`)[0];e||(e=o.createElement("div"),e.className=l[t],c.$el.append(e)),n[t]=e,f[t]=e}}),n}export{i as c};
